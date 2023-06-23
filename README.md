@@ -1,6 +1,33 @@
-# site-cursoemvideo.com
- o site do curso em video!
+# Repositório do Site Curso em Vídeo
 
-![image](https://user-images.githubusercontent.com/109079500/200219574-2aa37815-8f58-43df-bc57-e1f9d6380092.png)
-![image](https://user-images.githubusercontent.com/109079500/200219593-1994aee2-03e4-42a0-8ba5-310a5e4a1b46.png)
-![image](https://user-images.githubusercontent.com/109079500/200219635-d9fd42b6-9528-40f2-984f-e9aee7ff20bb.png)
+Este repositório contém o código-fonte e os arquivos relacionados ao site do **Curso em Vídeo**.
+
+O [Curso em Vídeo](https://www.cursoemvideo.com/) é uma plataforma online de ensino, criada pelo professor Gustavo Guanabara, que oferece diversos cursos gratuitos de programação, design, hardware, entre outros.
+
+## Objetivo do Repositório
+
+O objetivo deste repositório é fornecer uma base centralizada para o desenvolvimento e manutenção do site do Curso em Vídeo. Aqui, os colaboradores podem contribuir com melhorias, correções de bugs e implementação de novos recursos.
+
+## Como Contribuir
+
+Se você deseja contribuir para o desenvolvimento do site Curso em Vídeo, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie um branch com uma descrição clara do que será feito.
+3. Faça as alterações necessárias no código.
+4. Teste as modificações para garantir o bom funcionamento.
+5. Envie um pull request explicando as alterações realizadas.
+
+## Links Úteis
+
+- [Site do Curso em Vídeo](https://www.cursoemvideo.com/)
+- [Canal do Curso em Vídeo no YouTube](https://www.youtube.com/user/cursosemvideo)
+- [Perfil do Professor Gustavo Guanabara no GitHub](https://github.com/gustavoguanabara)
+
+## Licença
+
+Este projeto está licenciado sob a licença [MIT](LICENSE). Leia o arquivo de licença para obter mais informações.
+
+---
+
+Sinta-se à vontade para adicionar mais seções ou informações relevantes ao README, de acordo com suas necessidades.
